@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.pdb

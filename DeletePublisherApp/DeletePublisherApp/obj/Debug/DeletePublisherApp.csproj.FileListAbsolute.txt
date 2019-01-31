@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\bin\Debug\DeletePublisherApp.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\bin\Debug\DeletePublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\bin\Debug\DeletePublisherApp.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\obj\Debug\DeletePublisherApp.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\obj\Debug\DeletePublisherApp.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\obj\Debug\DeletePublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\DeletePublisherApp\DeletePublisherApp\obj\Debug\DeletePublisherApp.pdb

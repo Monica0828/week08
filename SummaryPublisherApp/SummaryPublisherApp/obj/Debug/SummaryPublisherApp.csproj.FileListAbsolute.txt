@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb

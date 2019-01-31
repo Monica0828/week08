@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\bin\Debug\CrudBookApp.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\CrudBookApp\CrudBookApp\obj\Debug\CrudBookApp.pdb

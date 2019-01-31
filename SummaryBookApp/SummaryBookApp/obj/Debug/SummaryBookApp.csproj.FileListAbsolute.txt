@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\bin\Debug\SummaryBookApp.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\bin\Debug\SummaryBookApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\bin\Debug\SummaryBookApp.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\obj\Debug\SummaryBookApp.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\obj\Debug\SummaryBookApp.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\obj\Debug\SummaryBookApp.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\SummaryBookApp\SummaryBookApp\obj\Debug\SummaryBookApp.pdb
