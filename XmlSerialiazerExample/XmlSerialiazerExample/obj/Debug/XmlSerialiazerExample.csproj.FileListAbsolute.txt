@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\bin\Debug\XmlSerialiazerExample.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\bin\Debug\XmlSerialiazerExample.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\bin\Debug\XmlSerialiazerExample.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\obj\Debug\XmlSerialiazerExample.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\obj\Debug\XmlSerialiazerExample.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\obj\Debug\XmlSerialiazerExample.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\XmlSerialiazerExample\XmlSerialiazerExample\obj\Debug\XmlSerialiazerExample.pdb

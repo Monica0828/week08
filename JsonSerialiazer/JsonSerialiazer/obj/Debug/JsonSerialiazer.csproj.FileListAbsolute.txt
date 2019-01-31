@@ -1,0 +1,11 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\JsonSerialiazer.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\JsonSerialiazer.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\JsonSerialiazer.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\obj\Debug\JsonSerialiazer.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\obj\Debug\JsonSerialiazer.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\obj\Debug\JsonSerialiazer.csproj.CopyComplete
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\obj\Debug\JsonSerialiazer.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\JsonSerialiazer\JsonSerialiazer\obj\Debug\JsonSerialiazer.pdb

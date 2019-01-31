@@ -1,0 +1,12 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFrameworkExample.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFrameworkExample.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFrameworkExample.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFramework.dll
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFramework.xml
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.csproj.CopyComplete
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week8\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.pdb

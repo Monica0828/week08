@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="63cf8ea5bd6340fead5002dc0cc617d7" Name="Diagram1">
+        <EntityTypeShape EntityType="LibraryMonicaModel.Address" Width="1.5" PointX="3.75" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Author" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Book" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.BookAuthor" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.BookCategory" Width="1.5" PointX="5.25" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.BookLibrary" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Category" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Library" Width="1.5" PointX="3" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Member" Width="1.5" PointX="6" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Publisher" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.Request" Width="1.5" PointX="8.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryMonicaModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_Library_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_Member_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_bookAuthor_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_bookAuthor_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_bookCategory_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_BookLibrary_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.FK_BookPublisher" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_Request_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_bookCategory_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_BookLibrary_Library" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryMonicaModel.fk_Request_Member" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
